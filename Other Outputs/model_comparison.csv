@@ -1,0 +1,4 @@
+Model,Final Train Acc,Final Val Acc,Final Train Loss,Final Val Loss
+GCN,66.67%,42.86%,0.7017,1.1937
+GAT,59.26%,14.29%,1.0081,1.2831
+GraphSAGE,100.00%,42.86%,0.0000,2.5207
