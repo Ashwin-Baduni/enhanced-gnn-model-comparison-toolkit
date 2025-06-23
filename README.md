@@ -1,4 +1,3 @@
-```markdown
 # Graph Neural Networks on Karate Club Dataset: A Comprehensive Comparison
 
 A comprehensive implementation and comparison of Graph Neural Network (GNN) architectures including GCN, GAT, and GraphSAGE on the classic Karate Club social network dataset. This project features advanced training techniques, interactive visualizations, network analysis, and model interpretability tools.
